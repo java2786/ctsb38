@@ -1,0 +1,16 @@
+Create a bucket with enable tcl
+    upload jar
+    make it public
+
+    => copy link
+
+
+-------------------
+
+Create github url
+    upload
+    download -> copy link
+
+----------
+
+public link -> onedrive, dropbox...
