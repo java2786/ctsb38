@@ -1,17 +1,46 @@
+0. demo
+
+Create a bucket with enable tcl
+    upload jar
+    make it public
+
+    => copy link
+
+
+-------------------
+
+Create github url
+    upload
+    download -> copy link
+        https://github.com/java2786/ctsb38/raw/master/aws/p08-springboot-rest-mysql-incomplete-0.0.1-SNAPSHOT.jar
+
+----------
+
+public link -> onedrive, dropbox...
+
+
+
+
+
+=====================================
+
 1. Create EC2 -> linux
 	allow users via security group - inbound rules
 		my machine for ssh and 22
 		anyone for http, 80 and 8080
 	make connection -> ssh @ec2-user:DNS
 
-		app ws/p04-
+		app ws/p01-
 
 2. Create link for jar
+	https://github.com/java2786/ctsb38/raw/master/aws/p08-springboot-rest-mysql-incomplete-0.0.1-SNAPSHOT.jar
+
 	github/bitbucket to upload code - javacode.jar
 
 3. Run springboot application
 - install java 8
 --- sudo yum install java-1.8.0-openjdk
+--- sudo yum install java-devel
 
 - download java jar
 -- wget link 
